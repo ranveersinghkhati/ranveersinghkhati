@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me`
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **MERN Stack Skills**
 
