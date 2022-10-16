@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ranveer</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-
+![gify](https://github.com/ranveersinghkhati/ranveersinghkhati/blob/master/giphy.gif){style="display: block; margin: 0 auto"}
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **MERN Stack Skills**
